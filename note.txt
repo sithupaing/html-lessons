@@ -1,0 +1,18 @@
+1. HTML
+2. Tags, Elements
+3. Inline Elements, Block Elements, Inline Block Elements
+4. attributes
+5. File Path -> (relative path, absolute path [root folder])
+
+
+HTML Elements
+============
+1.h1 -> h6
+2.p
+3.img
+4.a
+5.table
+6.list (ul,ol)
+7.form
+8.entities
+
